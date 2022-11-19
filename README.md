@@ -9,8 +9,8 @@ In 2020 I decided to start learning to program, and since then, I have made a lo
 * 🌍  I'm based in Lisbon, Portugal
 * ✉️  You can contact me at [martimvmadaleno@gmail.com](mailto:martimvmadaleno@gmail.com)
 * 🧠  I'm learning Web development and cybersecurity
-* 🤝  I'm open to collaborating on Web development
-* ⚡  Student at \[42\](https://www.42lisboa.com/)
+* 🤝  I'm open to collaborating on everything interesting
+* ⚡  Student at [42](https://www.42lisboa.com/)
 
 <a href="https://www.twitter.com/MartimMadaleno" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MartimMadaleno?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
