@@ -1,4 +1,5 @@
-Hi 👋 there I'm Martim
+Hi 👋 there I'm Martim  "cpu_load=$(echo "scale=2; (100 - ($(awk '/cpu /{print $5}' /proc/stat) / $(awk '/cpu /{sum=0; for(i=2;i<=NF;i++) sum+=$i; print sum}' /proc/stat) * 100))" | bc)
+"
 ==============================================================================================================================
 
 I'm a Full Stack Web Developer
