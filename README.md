@@ -11,6 +11,7 @@ In 2020 I decided to start learning to program, and since then, I have made a lo
 * 🧠  I'm learning Web development and Game development
 * 🤝  I'm open to collaborating on everything interesting
 * ⚡  Student at [42](https://www.42lisboa.com/)
+* 💼  [Portfolio](https://portfolio-beta-lyart-68.vercel.app/)
 
 <a href="https://www.twitter.com/martim_madaleno" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MartimMadaleno?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
